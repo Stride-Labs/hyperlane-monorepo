@@ -63,6 +63,21 @@
     "timelockController": "0x0000000000000000000000000000000000000000",
     "validatorAnnounce": "0x4f7179A691F8a684f56cF7Fed65171877d30739a"
   },
+  "mantasepolia": {
+    "staticMerkleRootMultisigIsmFactory": "0x7Bb0D19E36152bB10C4B6d85295510773d9C1870",
+    "staticMessageIdMultisigIsmFactory": "0x402f25125cAF9E06C98526466791B630e7eA790b",
+    "staticAggregationIsmFactory": "0xB37dD5AD507fDcdB1CCDAdC75f37B3D21eAb9f4d",
+    "staticAggregationHookFactory": "0x0E935e8F05471E380E98c754179066d0f23bd925",
+    "domainRoutingIsmFactory": "0x62FB27da5cF47EDeB83CA06E5b46F041103f9dA0",
+    "interchainSecurityModule": "0x02B283662FCD62Aab8b9b84cDa326aB9AdAe55Fb",
+    "messageIdMultisigIsm": "0x02B283662FCD62Aab8b9b84cDa326aB9AdAe55Fb",
+    "merkleTreeHook": "0x9734c502dba435D7AB6d71634C9Be40c785bd877",
+    "protocolFee": "0xa53f5b50Ed9d57891452A24849609EcDD9102D6F",
+    "testRecipient": "0x59D6B772a9Cac8F3CB375a73E6eA4806443Cef80",
+    "mailbox": "0x197a48989333FD3374C33Fc3c14649ec02f43419",
+    "proxyAdmin": "0x7Ed53ecc0701302543D5Edf997aa3882938a8874",
+    "validatorAnnounce": "0xcCb3E958D90FC904c4554Ba44f2C253a1B04149B"
+  },
   "plumetestnet": {
     "aggregationHook": "0x31dF0EEE7Dc7565665468698a0da221225619a1B",
     "domainRoutingIsmFactory": "0x54148470292C24345fb828B003461a9444414517",
